@@ -21,7 +21,7 @@ This package provides easy-to-use functions to convert between Gregorian and Jal
 Use Go Modules to install the package:
 
 ```bash
-go get github.com/yourusername/gojalali/jalali
+go get github.com/amireshoon/gojalali/jalali
 ```
 
 ## Quick Start
